@@ -1,6 +1,6 @@
 # npmdoc-angular-messages
 
-#### api documentation for  [angular-messages (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-messages.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-messages) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-messages.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-messages)
+#### basic api documentation for  [angular-messages (v1.6.4)](http://angularjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-messages.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-messages) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-messages.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-messages)
 
 #### AngularJS module that provides enhanced support for displaying messages within templates
 
@@ -71,7 +71,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.6.4"
+    "version": "1.6.4",
+    "bin": {}
 }
 ```
 
